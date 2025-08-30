@@ -6,7 +6,7 @@
 
 :fire::fire: This is a collection of awesome articles about Foundation Models in Pathology Image Analysis:fire::fire:
 
-:loudspeaker: Our review paper published on arXiv: [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142) :heart:
+:loudspeaker: Our review paper published on arXiv: [Foundation Models in Pathology Image Analysis](https://arxiv.org/abs/2307.16142) :heart:
 
 #### Citation
 
