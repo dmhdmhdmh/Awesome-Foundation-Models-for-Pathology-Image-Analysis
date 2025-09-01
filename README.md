@@ -97,20 +97,16 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 10. 📜 **A whole-slide foundation model for digital pathology from real-world data**
     - 📖 Nature 2024
     - 📄 [PDF](https://www.nature.com/articles/s41586-024-07441-w)
-    - 💻 [GitHub](https://github.com/prov-gigapath/prov-gigapath)
+    - 💻 [Code](https://github.com/prov-gigapath/prov-gigapath)
 
-11. 📜 **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**
-    - 🗓️ Publication Date: 27th Jun. 2023
-    - 📖 Preprint: arXiv
-    - 🧑‍🔬 Authors: Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang
-    - 📄 [PDF](https://arxiv.org/abs/2306.15203)
+11. 📜 **PLUTO: Pathology-Universal Transformer**
+    - 📖 ICML 2024 FM-Wild Workshop
+    - 📄 [PDF](https://openreview.net/forum?id=wy6RHXsEeM)
 
-12. 📜 **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation**
-    - 🗓️ Publication Date: 16th Mar. 2023
-    - 📖 Preprint: arXiv
-    - 🧑‍🔬 Authors: Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn
-    - 📄 [PDF](https://arxiv.org/abs/2303.09234)
-    - 💻 [GitHub](https://github.com/uncbiag/naisr)
+12. 📜 **Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**
+    - 📖 Journal: Nature BME 2025
+    - 📄 [PDF](https://arxiv.org/abs/2407.18449)
+    - 💻 [GitHub](https://github.com/birkhoffkiki/GPFM/tree/master)
    
 [<sub>Return to List</sub>](#return-to-list)
 
