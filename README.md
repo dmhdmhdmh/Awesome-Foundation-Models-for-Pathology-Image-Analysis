@@ -263,7 +263,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016" height="5"><br>
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
-## Adapt Foundation Models for Specific Tasks
+## Adapt Foundation Models for Specific Tasks
 
 ### Pathological Classification:
 
