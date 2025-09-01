@@ -88,7 +88,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 8. 📜 **Towards a general-purpose foundation model for computational pathology**
    - 📖 Journal: Nature Medicine, 2024
    - 📄 [PDF](https://www.nature.com/articles/s41591-024-02857-3)
-   - 💻 [Code](https://github.com/KatherLab/uni)
+   - 💻 [Code](https://github.com/mahmoodlab/UNI)
 
 9. 📜 **Computational Pathology at Health System Scale- Self-Supervised Foundation Models from Billions of Images**
    - 📖 AAAI 2024 Spring Symposium
