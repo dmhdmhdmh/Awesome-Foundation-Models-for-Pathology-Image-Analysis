@@ -22,15 +22,10 @@
 
 # Introduction 
 
-Implicitly representing image signals has gained popularity in recent years for a broad range of medical imaging applications.
-The most motivating reasons are the following:
-* Memory efficiency: The amount of memory demanded to represent the signal is not restricted by the signal's resolution.
-* Unlimited Resolution: They take values in the continuous domain, meaning they can generate values for coordinates in-between the pixel or voxel-wise grid
-* Effective data usage: They can learn to handle reconstruction and synthesis tasks without high-cost external annotation.
+Foundation models have gained popularity in recent years for a broad range of pathological imaging applications.
 
-Which all are significantly important for developing an automatic medical system.<br>
-With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of `81` research papers spanning from 2021 to 2023.
+With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Foundation models in Pathology Image Analysis, including papers, codes, and related websites.<br>
+We considered a sum of `81` research papers spanning from 2022 to 2025.
 
 ---
 # papers
@@ -39,33 +34,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 <a name="return-to-list"></a>
 
-- [Image Reconstruction](#image-reconstruction)
-  - [Tomography and CT](#tomography-and-ct)
-  - [MRI](#mri)
-  - [Ultrasound](#ultrasound)
-  - [Dental and Maxillofacial](#dental-and-maxillofacial)
-  - [Miscellaneous](#miscellaneous)
-- [Image Segmentation](#image-segmentation)
-  - [Brain Structures and Lesions](#brain-structures-and-lesions)
-  - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
-  - [Retinal Blood Vessels](#retinal-blood-vessels)
-  - [3D Segmentation](#3d-segmentation)
-  - [Boundary Refinement](#boundary-refinement)
-  - [Patch Level Segmentation](#patch-level-segmentation)
-- [Image Registration](#image-registration)
-  - [Deformable Registration](#deformable-registration)
-  - [Diffeomorphic Registration](#diffeomorphic-registration)
-- [Neural Rendering](#neural-rendering)
-  - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
-    - [Computed Tomography (CT)](#computed-tomography-ct)
-    - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
-    - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
-    - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
-  - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
-  - [Dental and Oral Imaging](#dental-and-oral-imaging)
-  - [Pose Estimation](#pose-estimation)
-- [Image Compression](#image-compression)
-- [Image Synthesis](#image-synthesis)
+- [Large-scale Pre-trained Models](#Large-scale-Pre-trained-Models)
+  - [Large Vision Models](#Large-Vision-Models)
+  - [Contrastive Multi-modal Models](#Contrastive-Multi-modal-models)Pathological Classification
+  - [Multi-modal Large Language Models](#Multi-modal-Large-Language-Models)
+- [Adapt Foundation Models for Specific Tasks](#Adapt-Foundation-Models-for-Specific-Tasks)
+  - [Pathological Classification](#Pathological-Classification)
+  - [Pathological Component Segmentation](#Pathological-Component-Segmentation)
+  - [Other applications](#Other-applications)
 
 (Each section is ordered by the publication dates)
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
