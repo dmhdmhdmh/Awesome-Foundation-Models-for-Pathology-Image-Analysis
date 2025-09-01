@@ -82,13 +82,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 💻 [GitHub](https://github.com/mahmoodlab/HIPT)
    - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A two-stage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
 
-2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
-   - 🗓️ Publication Date: 9th Feb. 2021
-   - 📖 Journal: IEEE Transactions on Computational Imaging, 2021
-   - 🧑‍🔬 Authors: Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov
-   - 📄 [PDF](https://arxiv.org/abs/2102.05181)
-   - 💻 [GitHub](https://github.com/wustl-cig/Cooridnate-based-I)
-   - 📌 Highlight: Takes measurement coordinates, such as view angle θ and spatial location l in CT scans, as its input, then outputs the corresponding sensor responses for these coordinates, creating an implicit neural representation of the measurement field.
+2. 📜 **Transformer-based unsupervised contrastive learning for histopathological image classification**
+   - 📖 Journal: Medical Image Analysis, 2022
+   - 📄 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002043)
+   - 💻 [GitHub](https://github.com/Xiyue-Wang/TransPath)
+   - 📌 Highlight: A proposed CTransPath integrates CNN and multi-scale Swin Transformer to better capture local fine structures and global context; A semantically-relevant contrastive learning framework proposed to improve SSL by selecting more similar positive samples from different instances.
 
 3. 📜 **Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields**
    - 🗓️ Publication Date: 23th Apr. 2021
