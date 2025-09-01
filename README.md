@@ -52,67 +52,52 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 1. 📜 **Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**
    - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.html?trk=public_post_comment-text)
-   - 💻 [GitHub](https://github.com/mahmoodlab/HIPT)
+   - 💻 [Code](https://github.com/mahmoodlab/HIPT)
    - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A two-stage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
 
 2. 📜 **Transformer-based unsupervised contrastive learning for histopathological image classification**
    - 📖 Journal: Medical Image Analysis, 2022
    - 📄 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002043)
-   - 💻 [GitHub](https://github.com/Xiyue-Wang/TransPath)
+   - 💻 [Code](https://github.com/Xiyue-Wang/TransPath)
    - 📌 Highlight: A proposed CTransPath integrates CNN and multi-scale Swin Transformer to better capture local fine structures and global context; A semantically-relevant contrastive learning framework proposed to improve SSL by selecting more similar positive samples from different instances.
 
-3. 📜 **Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields**
-   - 🗓️ Publication Date: 23th Apr. 2021
-   - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
-   - 🧑‍🔬 Authors: Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya
-   - 📄 [PDF](https://arxiv.org/abs/2104.11745)
-   - 📌 Highlight: Uses implicit neural representations (INRs) for 4D-CT reconstruction. Paired with a parametric motion field, they estimate evolving 3D objects. Using a differentiable Radon transform, reconstructions are synthesized and compared with x-ray data, improving reconstruciton quality without training data.
+3. 📜 **Benchmarking Self-Supervised Learning on Diverse Pathology Datasets**
+   - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023
+   - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Kang_Benchmarking_Self-Supervised_Learning_on_Diverse_Pathology_Datasets_CVPR_2023_paper.html?ref=https://githubhelp.com)
+   - 💻 [Code](https://github.com/lunit-io/benchmark-ssl-pathology#pre-trained-weights) 
+   - 📌 Highlight: Systematically compare existing SSL methods and discuss how to adapt them to pathology; A set of carefully designed data preprocessing and data augmentation techniques proposed to further enhance downstream performance.
 
-4. 📜 **Neural Computed Tomography**
-   - 🗓️ Publication Date: 17th Jan. 2022
-   - 📖 Preprint: arXiv, 2022
-   - 🧑‍🔬 Authors: Kunal Gupta, Brendan Colvert, Francisco Contijoch
-   - 📄 [PDF](https://arxiv.org/abs/2201.06574)
-   - 💻 [GitHub](https://github.com/KunalMGupta/DIFIR-CT)
+4. 📜 **Scaling Self-Supervised Learning for Histopathology with Masked Image Modeling**
+   - 📖 Preprint: MedRxiv, 2023
+   - 📄 [PDF](https://www.medrxiv.org/content/10.1101/2023.07.21.23292757v3)
 
-5. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT**
-   - 🗓️ Publication Date: 4th Apr. 2022
-   - 📖 Conference: Medical Imaging 2022: Physics of Medical Imaging, 2022
-   - 🧑‍🔬 Authors: Byeongjoon Kim, Hyunjung Shim, Jongduk Baek
-   - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
+5. 📜 **A foundation model for clinical-grade computational pathology and rare cancers detection**
+   - 📖 Journal: Nature Medicine, 2024
+   - 📄 [PDF](https://www.nature.com/articles/s41591-024-03141-0)
+   - 💻 [Code](https://huggingface.co/paige-ai/Virchow)
 
-6. 📜 **Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography**
-   - 🗓️ Publication Date: 12th Sep. 2022
-   - 📖 Journal: IEEE Transactions on Computational Imaging, 2023
-   - 🧑‍🔬 Authors: Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
-   - 📄 [PDF](https://ieeexplore.ieee.org/document/10143286)
-   - 💻 [GitHub](https://github.com/iwuqing/SCOPE)
+6. 📜 **Rotation-Agnostic Image Representation Learning for Digital Pathology**
+   - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024
+   - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Alfasly_Rotation-Agnostic_Image_Representation_Learning_for_Digital_Pathology_CVPR_2024_paper.html)
+   - 💻 [Code](https://kimialabmayo.github.io/PathDino-Page/)
 
-7. 📜 **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields**
-   - 🗓️ Publication Date: 23th Nov. 2022
-   - 📖 Conference: CVPR, 2023
-   - 🧑‍🔬 Authors: Haim Sawdayee, Amir Vaxman, Amit H. Bermano
-   - 📄 [PDF](https://arxiv.org/abs/2211.12886)
-   - 💻 [GitHub](https://github.com/haimsaw/OReX)
+7. 📜 **RudolfV: A Foundation Model by Pathologists for Pathologists**
+   - 📖 Preprint: arXiv, 2024
+   - 📄 [PDF](https://arxiv.org/abs/2401.04079)
 
-8. 📜 **NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation**
-   - 🗓️ Publication Date: 21th Feb. 2022
-   - 📖 Journal: BioMed Research International, 2022
-   - 🧑‍🔬 Authors: Cong Liu, Qingbin Wang, Jing Zhang
-   - 📄 [PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)
+8. 📜 **Towards a general-purpose foundation model for computational pathology**
+   - 📖 Journal: Nature Medicine, 2024
+   - 📄 [PDF](https://www.nature.com/articles/s41591-024-02857-3)
+   - 💻 [Code](https://github.com/KatherLab/uni)
 
-9. 📜 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.**
-   - 🗓️ Publication Date: 25th Jun. 2023
-   - 📖 Preprint: arXiv
-   - 🧑‍🔬 Authors: Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng
-   - 📄 [PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)
-   - 🖥️ [GitHub](https://github.com/hongwang01/mepnet)
+9. 📜 **Computational Pathology at Health System Scale- Self-Supervised Foundation Models from Billions of Images**
+   - 📖 AAAI 2024 Spring Symposium
+   - 📄 [PDF](https://openreview.net/forum?id=g8tF7gGzZb)
 
-10. 📜 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography**
-    - 🗓️ Publication Date: 3rd Jun. 2022
-    - 📖 Authors: Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh
-    - 📄 [PDF](https://arxiv.org/abs/2202.10847)
-    - 💻 [GitHub](https://github.com/bobby-he/uncertainr)
+10. 📜 **A whole-slide foundation model for digital pathology from real-world data**
+    - 📖 Nature 2024
+    - 📄 [PDF](https://www.nature.com/articles/s41586-024-07441-w)
+    - 💻 [GitHub](https://github.com/prov-gigapath/prov-gigapath)
 
 11. 📜 **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**
     - 🗓️ Publication Date: 27th Jun. 2023
