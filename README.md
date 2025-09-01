@@ -76,12 +76,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ### Large Vision Models
 
 
-1. 📜 **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction**
-   - 🗓️ Publication Date: 9th Feb. 2021
-   - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
-   - 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
+1. 📜 **Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**
+   - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
    - 📄 [PDF](https://neuralfields.cs.brown.edu/paper_243.html)
-   - 📌 Highlight: Uses coordinate-based neural representations for CT reconstructions, capturing details often overlooked by standard deep learning. It's self-supervised, using the scanned object's own projections as training data, and further refined with geometric techniques.
+   - [GitHub](https://github.com/mahmoodlab/HIPT)
+   - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A twostage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
 
 2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
    - 🗓️ Publication Date: 9th Feb. 2021
