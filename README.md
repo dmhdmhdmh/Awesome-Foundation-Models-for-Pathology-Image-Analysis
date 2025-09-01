@@ -80,7 +80,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
    - 📄 [PDF](https://neuralfields.cs.brown.edu/paper_243.html)
    - 💻 [GitHub](https://github.com/mahmoodlab/HIPT)
-   - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A two-stage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
+   - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A two-stage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
 
 2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
    - 🗓️ Publication Date: 9th Feb. 2021
