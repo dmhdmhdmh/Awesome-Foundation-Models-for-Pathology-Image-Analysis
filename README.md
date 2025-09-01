@@ -79,7 +79,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 1. 📜 **Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**
    - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
    - 📄 [PDF](https://neuralfields.cs.brown.edu/paper_243.html)
-   - [GitHub](https://github.com/mahmoodlab/HIPT)
+   - 💻 [GitHub](https://github.com/mahmoodlab/HIPT)
    - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A twostage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
 
 2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
