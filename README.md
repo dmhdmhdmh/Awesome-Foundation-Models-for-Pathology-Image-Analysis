@@ -29,14 +29,12 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 
 ---
 # papers
-<img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
-Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
 <a name="return-to-list"></a>
 
 - [Large-scale Pre-trained Models](#Large-scale-Pre-trained-Models)
   - [Large Vision Models](#Large-Vision-Models)
-  - [Contrastive Multi-modal Models](#Contrastive-Multi-modal-models)Pathological Classification
+  - [Contrastive Multi-modal Models](#Contrastive-Multi-modal-models)
   - [Multi-modal Large Language Models](#Multi-modal-Large-Language-Models)
 - [Adapt Foundation Models for Specific Tasks](#Adapt-Foundation-Models-for-Specific-Tasks)
   - [Pathological Classification](#Pathological-Classification)
