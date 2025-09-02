@@ -138,94 +138,95 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 ---
 ### Contrastive Multi-modal Models
 
-17. 📜 **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**
+18. 📜 **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**
      - 📖 CVPR, 2023
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.html?ref=https://githubhelp.com)
      - 💻 [Code](https://github.com/mahmoodlab/MI-Zero)
 
-18. 📜 **A visual-language foundation model for pathology image analysis using medical Twitter**
+19. 📜 **A visual-language foundation model for pathology image analysis using medical Twitter**
      - 📖 Journal: Nature Medicine, 2023
      - 📄 [PDF](https://www.nature.com/articles/s41591-023-02504-3)
      - 💻 [Code](https://tinyurl.com/webplip)
 
-19. 📜 **Quilt-1M: One Million Image-Text Pairs for Histopathology**
+20. 📜 **Quilt-1M: One Million Image-Text Pairs for Histopathology**
      - 📖 Conference: NeurIPS 2023
      - 📄 [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/775ec578876fa6812c062644964b9870-Abstract-Datasets_and_Benchmarks.html)
      - 💻 [Code](https://github.com/wisdomikezogwo/quilt1m)
       
-20. 📜 **A visual-language foundation model for computational pathology**
+21. 📜 **A visual-language foundation model for computational pathology**
      - 📖 Journal: Nature Medicine, 2024
      - 📄 [PDF](https://www.nature.com/articles/s41591-024-02856-4)
      - 💻 [Code](http://github.com/mahmoodlab/CONCH)
 
-17. 📜 **Knowledge-Enhanced Visual-Language Pretraining for Computational Pathology**
+22. 📜 **Knowledge-Enhanced Visual-Language Pretraining for Computational Pathology**
      - 📖 Conference: ECCV, 2024
      - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_20)
      - 💻 [Code](https://github.com/MAGIC-AI4Med/KEP)
 
-18. 📜 **PRISM: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology**
+23. 📜 **PRISM: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology**
      - 📖 Preprint: arXiv, 2024
      - 📄 [PDF](https://arxiv.org/abs/2405.10254)
      - 💻 [Code](https://huggingface.co/paige-ai/Prism/tree/main)
 
-19. 📜 **Transcriptomics-guided Slide Representation Learning in Computational Pathology**
+24. 📜 **Transcriptomics-guided Slide Representation Learning in Computational Pathology**
      - 📖 CVPR, 2024
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.html)
      - 💻 [Code](https://github.com/mahmoodlab/TANGLE)
 
-20. 📜 **CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment**
+25. 📜 **CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment**
      - 📖 CVPR, 2024
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.html)
      - 💻 [Code](https://github.com/iyyakuttiiyappan/CPLIP)
 
-21. 📜 **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**
+26. 📜 **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**
      - 📖 Preprint: arXiv, 2024
      - 📄 [PDF](https://arxiv.org/abs/2407.15362)
      - 💻 [Code](https://github.com/Innse/mSTAR)
    
-22. 📜 **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**
+27. 📜 **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**
      - 📖 ICLR, 2025
      - 📄 [PDF](https://arxiv.org/abs/2407.00203)
      - 💻 [Code](https://github.com/PathFoundation/PathGen-1.6M/tree/main)
    
-23. 📜 **Benchmarking PathCLIP for Pathology Image Analysis**
+28. 📜 **Benchmarking PathCLIP for Pathology Image Analysis**
      - 📖 Journal: Journal of Imaging Informatics in Medicine, 2025
      - 📄 [PDF](https://link.springer.com/article/10.1007/s10278-024-01128-4)
      - 💻 [Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
    
-24. 📜 **A pathology foundation model for cancer diagnosis and prognosis prediction**
+29. 📜 **A pathology foundation model for cancer diagnosis and prognosis prediction**
      - 📖 Journal: Nature, 2024
      - 📄 [PDF](https://www.nature.com/articles/s41586-024-07894-z)
      - 💻 [Code](https://github.com/hms-dbmi/CHIEF)
    
-25. 📜 **CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**
+30. 📜 **CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**
      - 📖 CVPR, 2025
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html)
      - 💻 [Code](https://github.com/PathFoundation/CPath-Omni)
    
-26. 📜 **A vision–language foundation model for precision oncology**
+31. 📜 **A vision–language foundation model for precision oncology**
      - 📖 Journal: Nature, 2025
      - 📄 [PDF](https://www.nature.com/articles/s41586-024-08378-w)
      - 💻 [Code](https://github.com/lilab-stanford/MUSK)
    
-
+32. 📜 **A visual–omics foundation model to bridge histopathology with spatial transcriptomics**
+     - 📖 Journal: Nature Methods, 2025
+     - 📄 [PDF](https://www.nature.com/articles/s41592-025-02707-1)
+     - 💻 [Code](https://github.com/GuangyuWangLab2021/Loki/)
+  
 [<sub>Return to List</sub>](#return-to-list)
 
 ---
 ### Multi-modal Large Language Models
 
-31. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
-    - 🗓️ Publication Date: *24th Aug. 2021*
-    - 📖 Preprint: *IEEE Transactions on Neural Networks and Learning Systems, 2022*
-    - 🧑‍🔬 Authors: *Liyue Shen, John Pauly, Lei Xing.*
-    - 📄 [PDF](https://arxiv.org/abs/2108.10991)
-    - 💻 [Github](https://github.com/liyues/nerp)
+33. 📜 **PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology**
+     - 📖 AAAI, 2024
+     - 📄 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28308)
+     - 💻 [Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
    
-32. 📜 **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
-     - 🗓️ Publication Date: 28th Mar. 2023
-     - 📖 Conference: *ICCV, 2023*
-     - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
-     - 📄 [PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.html)
+34. 📜 **Generating dermatopathology reports from gigapixel whole slide images with HistoGPT**
+     - 📖 Journal: Nature Communications, 2025
+     - 📄 [PDF](https://www.nature.com/articles/s41467-025-60014-x)
+     - 💻 [Code](https://github.com/marrlab/HistoGPT)
 
 [<sub>Return to List</sub>](#return-to-list)
 
