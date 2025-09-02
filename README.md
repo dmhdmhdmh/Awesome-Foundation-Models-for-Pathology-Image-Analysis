@@ -307,8 +307,39 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_16)
      - 💻 [Code](https://github.com/Hasindri/HLSS)
 
+50. 📜 **PathoTune: Adapting Visual Foundation Model to Pathological Specialists**
+     - 📖 Conference: MICCAI, 2024
+     - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_37)
+     - 💻 [Code](https://github.com/openmedlab/PathoDuet)
 
+51. 📜 **VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification**
+    - 📖 Journal: IEEE Transactions on Medical Imaging, 2025
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/11108704)
+    - 💻 [Code](https://github.com/HiLab-git/VLM-CPL)
+   
+52. 📜 **Prompting Vision Foundation Models for Pathology Image Analysis**
+    - 📖 Conference: CVPR, 2024
+    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.html)
+    - 💻 [Code](https://github.com/7LFB/QAP https://github.com/7LFB/QAP)
 
+53. 📜 **ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**
+    - 📖 Conference: CVPR, 2024
+    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.html)
+    - 💻 [Code](https://github.com/Jiangbo-Shi/ViLa-MIL)
+      
+54. 📜 **Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification**
+    - 📖 Conference: ECCV, 2024
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-73247-8_12)
+
+55. 📜 **Prompting Whole Slide Image Based Genetic Biomarker Prediction**
+    - 📖 Conference: MICCAI, 2024
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_38)
+    - 💻 [Code](https://github.com/DeepMed-Lab-ECNU/PromptBio)
+
+56. 📜 **MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**
+    - 📖 Conference: IEEE Transactions on Medical Imaging, 2025
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10979677)
+    - 💻 [Code](https://github.com/Hanminghao/MSCPT)
 ---
 
 ### Pathological Component Segmentation:
