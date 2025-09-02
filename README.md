@@ -106,13 +106,28 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 12. 📜 **Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**
     - 📖 Journal: Nature BME 2025
     - 📄 [PDF](https://arxiv.org/abs/2407.18449)
-    - 💻 [GitHub](https://github.com/birkhoffkiki/GPFM/tree/master)
+    - 💻 [Code](https://github.com/birkhoffkiki/GPFM/tree/master)
 
 13. 📜 **PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains**
     - 📖 Journal: Medical Image Analysis, 2024
-    - 📄 [PDF](https://arxiv.org/abs/2407.18449)
-    - 💻 [GitHub](https://github.com/birkhoffkiki/GPFM/tree/master)
-   
+    - 📄 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002147)
+    - 💻 [Code](https://github.com/openmedlab/PathoDuet)
+
+14. 📜 **Multistain Pretraining for Slide Representation Learning in Pathology**
+    - 📖 ECCV, 2024
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_2)
+    - 💻 [Code](https://github.com/mahmoodlab/MADELEINE)
+
+15. 📜 **Rotation-agnostic image representation learning for digital pathology**
+    - 📖 CVPR, 2024
+    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Alfasly_Rotation-Agnostic_Image_Representation_Learning_for_Digital_Pathology_CVPR_2024_paper.html)
+    - 💻 [Code](https://github.com/KimiaLabMayo/PathDino)
+    - 
+16. 📜 **Tissue Concepts: supervised foundation models in computational pathology**
+    - 📖 Journal: Computers in Biology and Medicine
+    - 📄 [PDF](https://www.sciencedirect.com/science/article/pii/S0010482524017062)
+    - 💻 [Code](https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling)
+
 [<sub>Return to List</sub>](#return-to-list)
 
 ---
