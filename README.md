@@ -50,7 +50,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 
 
 1. 📜 **Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**
-   - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
+   - 📖 Conference: CVPR, 2022
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.html?trk=public_post_comment-text)
    - 💻 [Code](https://github.com/mahmoodlab/HIPT)
    - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A two-stage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
@@ -62,7 +62,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
    - 📌 Highlight: A proposed CTransPath integrates CNN and multi-scale Swin Transformer to better capture local fine structures and global context; A semantically-relevant contrastive learning framework proposed to improve SSL by selecting more similar positive samples from different instances.
 
 3. 📜 **Benchmarking Self-Supervised Learning on Diverse Pathology Datasets**
-   - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023
+   - 📖 Conference: CVPR, 2023
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Kang_Benchmarking_Self-Supervised_Learning_on_Diverse_Pathology_Datasets_CVPR_2023_paper.html?ref=https://githubhelp.com)
    - 💻 [Code](https://github.com/lunit-io/benchmark-ssl-pathology#pre-trained-weights) 
    - 📌 Highlight: Systematically compare existing SSL methods and discuss how to adapt them to pathology; A set of carefully designed data preprocessing and data augmentation techniques proposed to further enhance downstream performance.
@@ -77,7 +77,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
    - 💻 [Code](https://huggingface.co/paige-ai/Virchow)
 
 6. 📜 **Rotation-Agnostic Image Representation Learning for Digital Pathology**
-   - 📖 Proceedings: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024
+   - 📖 Conference: CVPR, 2024
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Alfasly_Rotation-Agnostic_Image_Representation_Learning_for_Digital_Pathology_CVPR_2024_paper.html)
    - 💻 [Code](https://kimialabmayo.github.io/PathDino-Page/)
 
@@ -188,55 +188,26 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 📄 [PDF](https://arxiv.org/abs/2407.00203)
      - 💻 [Code](https://github.com/PathFoundation/PathGen-1.6M/tree/main)
    
-23. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
-     - 🗓️ Publication Date: 19th Oct. 2022
-     - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
-     - 📄 [PDF](https://arxiv.org/abs/2210.10439)
+23. 📜 **Benchmarking PathCLIP for Pathology Image Analysis**
+     - 📖 Journal: Journal of Imaging Informatics in Medicine, 2025
+     - 📄 [PDF](https://link.springer.com/article/10.1007/s10278-024-01128-4)
+     - 💻 [Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
    
-24. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
-     - 🗓️ Publication Date: 5th Jul. 2023
-     - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
-     - 📄 [PDF](https://arxiv.org/abs/2307.02334)
-     - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
+24. 📜 **A pathology foundation model for cancer diagnosis and prognosis prediction**
+     - 📖 Journal: Nature, 2024
+     - 📄 [PDF](https://www.nature.com/articles/s41586-024-07894-z)
+     - 💻 [Code](https://github.com/hms-dbmi/CHIEF)
    
-25. 📜 **Unsupervised reconstruction of accelerated cardiac cine MRI using Neural Fields**
-    - 🗓️ Publication Date: 24th Jul. 2023
-    - 📖 Preprint: arxiv
-    - 🧑‍🔬 Authors: Tabita Catalán, Matías Courdurier, Axel Osses, René Botnar, Francisco Sahli Costabal, Claudia Prieto
-    - 📄 [PDF](https://arxiv.org/abs/2307.14363)
-    - 💻 [GitHub](https://github.com/fsahli/NF-cMRI)
-    - 📌 Highlight: An unsupervised INR approach that uses the spatio-temporal Fourier Features of the heart's motion.
-
-26. 📜 **Self-supervised arbitrary scale super-resolution framework for anisotropic MRI**
-     - 🗓️ Publication Date: 2th May. 2023
-     - 🧑‍🔬 Authors: Haonan Zhang, Yuhan Zhang, Qing Wu, Jiangjie Wu, Zhiming Zhen, Feng Shi, Jianmin Yuan, Hongjiang Wei, Chen Liu, Yuyao Zhang
-     - 📄 [PDF](https://arxiv.org/abs/2305.01360)
-      
-27. 📜 **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
-     - 🗓️ Publication Date: 11th May. 2023
-     - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
-     - 📄 [PDF](https://arxiv.org/abs/2305.06822)
-     - 💻 [GitHub](https://github.com/mli-lab/cinemri)
-
-28. 📜 **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
-     - 🗓️ Publication Date: 24th Feb. 2023
-     - 🧑‍🔬 Authors: Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli
-     - 📄 [PDF](https://arxiv.org/abs/2302.12835)
+25. 📜 **CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**
+     - 📖 CVPR, 2025
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html)
+     - 💻 [Code](https://github.com/PathFoundation/CPath-Omni)
    
-29. 📜 **CoNeS: Conditional neural fields with shift modulation for multi-sequence MRI translation.**
-      - 📅 Publication Date: *6th Sep., 2023*
-      - 📖 Preprint: *arxiv*
-      - 🧑‍🔬 Authors: *Yunjie Chen, Marius Staring, Olaf M. Neve, Stephan R. Romeijn, Erik F. Hensen, Berit M. Verbist, Jelmer M. Wolterink, Qian Tao.*
-      - 📄 [PDF](https://arxiv.org/abs/2309.03320)
-      - 💻 [GitHub](https://github.com/cyjdswx/cones)
+26. 📜 **A vision–language foundation model for precision oncology**
+     - 📖 Journal: Nature, 2025
+     - 📄 [PDF](https://www.nature.com/articles/s41586-024-08378-w)
+     - 💻 [Code](https://github.com/lilab-stanford/MUSK)
    
-30. 📜 **Batch Implicit Neural Representation for MRI Parallel Reconstruction.**
-      - 📅 Publication Date: *13th Sep., 2023*
-      - 📖 Preprint: *arxiv*
-      - 🧑‍🔬 Authors: *Hao Li, Yusheng Zhou, Jianan Liu, Xiling Liu, Tao Huang, Zhihan Lv.*
-      - 📄 [PDF](https://arxiv.org/abs/2309.06067)
-      - 📌 Highlight: Uses INR to parametrize fully-sampled MRI images as continuous functions, enhanced by a scale-embedded encoder for scale-independent feature production.
-
 
 [<sub>Return to List</sub>](#return-to-list)
 
