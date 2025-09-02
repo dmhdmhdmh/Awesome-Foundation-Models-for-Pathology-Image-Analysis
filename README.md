@@ -139,7 +139,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 ### Contrastive Multi-modal Models
 
 18. 📜 **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**
-     - 📖 CVPR, 2023
+     - 📖 Conference: CVPR, 2023
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.html?ref=https://githubhelp.com)
      - 💻 [Code](https://github.com/mahmoodlab/MI-Zero)
 
@@ -169,12 +169,12 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 💻 [Code](https://huggingface.co/paige-ai/Prism/tree/main)
 
 24. 📜 **Transcriptomics-guided Slide Representation Learning in Computational Pathology**
-     - 📖 CVPR, 2024
+     - 📖 Conference: CVPR, 2024
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.html)
      - 💻 [Code](https://github.com/mahmoodlab/TANGLE)
 
 25. 📜 **CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment**
-     - 📖 CVPR, 2024
+     - 📖 Conference: CVPR, 2024
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.html)
      - 💻 [Code](https://github.com/iyyakuttiiyappan/CPLIP)
 
@@ -184,7 +184,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 💻 [Code](https://github.com/Innse/mSTAR)
    
 27. 📜 **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**
-     - 📖 ICLR, 2025
+     - 📖 Conference: ICLR, 2025
      - 📄 [PDF](https://arxiv.org/abs/2407.00203)
      - 💻 [Code](https://github.com/PathFoundation/PathGen-1.6M/tree/main)
    
@@ -199,7 +199,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 💻 [Code](https://github.com/hms-dbmi/CHIEF)
    
 30. 📜 **CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**
-     - 📖 CVPR, 2025
+     - 📖 Conference: CVPR, 2025
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html)
      - 💻 [Code](https://github.com/PathFoundation/CPath-Omni)
    
@@ -219,7 +219,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 ### Multi-modal Large Language Models
 
 33. 📜 **PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology**
-     - 📖 AAAI, 2024
+     - 📖 Conference: AAAI, 2024
      - 📄 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28308)
      - 💻 [Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
    
@@ -227,34 +227,65 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 📖 Journal: Nature Communications, 2025
      - 📄 [PDF](https://www.nature.com/articles/s41467-025-60014-x)
      - 💻 [Code](https://github.com/marrlab/HistoGPT)
+       
+35. 📜 **A multimodal generative AI copilot for human pathology**
+     - 📖 Journal: Nature, 2024
+     - 📄 [PDF](https://www.nature.com/articles/s41586-024-07618-3)
 
+36. 📜 **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**
+     - 📖 Conference: ICLR, 2025
+     - 📄 [PDF](https://arxiv.org/abs/2407.00203)
+     - 💻 [Code](https://github.com/PathFoundation/PathGen-1.6M/tree/main)
+
+37. 📜 **Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**
+     - 📖 Conference: CVPR, 2024
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Seyfioglu_Quilt-LLaVA_Visual_Instruction_Tuning_by_Extracting_Localized_Narratives_from_Open-Source_CVPR_2024_paper.html)
+     - 💻 [Code](https://github.com/aldraus/quilt-llava)
+
+38. 📜 **SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**
+     - 📖 Conference: CVPR, 2025
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html)
+     - 💻 [Code](https://github.com/uni-medical/SlideChat)
+
+39. 📜 **CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**
+     - 📖 Conference: CVPR, 2025
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html)
+     - 💻 [Code](https://github.com/PathFoundation/CPath-Omni)
+
+40. 📜 **WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image**
+     - 📖 Conference: ICCV, 2025
+     - 📄 [PDF](https://arxiv.org/abs/2412.02141)
+     - 💻 [Code](https://github.com/XinhengLyu/WSI-LLaVA)
+       
 [<sub>Return to List</sub>](#return-to-list)
 
 ## Adapt Foundation Models for Specific Tasks
 
 ### Pathological Classification:
 
-46. 📜 **NeRD: Neural Representation of Distribution for Medical Image Segmentation**
-    - 📅 Publication Date: *6th Mar., 2021*
-    - 📖 Preprint: *arXiv, 2021*
-    - 🧑‍🔬 Authors: *Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang*
-    - 📄 [PDF](https://arxiv.org/abs/2103.04020)
-    - 📌 Highlight: Addresses white matter lesion segmentation and left atrial segmentation.
+46. 📜 **Text-Guided Foundation Model Adaptation for Pathological Image Classification**
+     - 📖 Conference: MICCAI, 2023
+     - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_27)
+     - 💻 [Code](https://github.com/Yunkun-Zhang/CITE)
 
-47. 📜 **Implicit field learning for unsupervised anomaly detection in medical images**
-    - 📅 Publication Date: *9th Jun., 2021*
-    - 📖 Conference: *MICCAI 2021*
-    - 🧑‍🔬 Authors: *Sergio Naval Marimont, Giacomo Tarroni*
-    - 📄 [PDF](https://arxiv.org/abs/2106.05214)
-    - 📌 Highlight: Aims to localize gliomas on brain MR images using an unsupervised out-of-distribution detection method.
+47. 📜 **Prompt-MIL: Boosting Multi-instance Learning Schemes via Task-Specific Prompt Tuning**
+     - 📖 Conference: MICCAI, 2023
+     - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_60)
+     - 💻 [Code](https://github.com/cvlab-stonybrook/PromptMIL)
 
-48. 📜 **Direct localization and delineation of human pedunculopontine nucleus based on a self-supervised magnetic resonance image super-resolution method**
-    - 📅 Publication Date: *25th Apr., 2023*
-    - 📖 Journal: *Human Brain Mapping, 2023*
-    - 🧑‍🔬 Authors: *Jun Li, Xiaojun Guan, Qing Wu, Chenyu He, Weimin Zhang, Xiyue Lin, Chunlei Liu, Hongjiang Wei, Xiaojun Xu, Yuyao Zhang*
-    - 📄 [PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26311)
-    - 📌 Highlight: Focuses on delineating the pedunculopontine nucleus (PPN).
+48. 📜 **CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts**
+     - 📖 Conference: ICCVW, 2023
+     - 📄 [PDF](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.html)
 
+49. 📜 **Prompt-MIL: Boosting Multi-instance Learning Schemes via Task-Specific Prompt Tuning**
+     - 📖 Conference: MICCAI, 2023
+     - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_60)
+     - 💻 [Code](https://github.com/cvlab-stonybrook/PromptMIL)
+   
+50. 📜 **The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification**
+     - 📖 Conference: NeurIPS, 2024
+     - 📄 [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d599b81036fd1a3b3949b7d444f31082-Abstract-Conference.html)
+     - 💻 [Code](https://github.com/miccaiif/TOP)
 ---
 
 ### Pathological Component Segmentation:
