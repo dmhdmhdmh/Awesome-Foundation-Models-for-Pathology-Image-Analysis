@@ -107,6 +107,11 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📖 Journal: Nature BME 2025
     - 📄 [PDF](https://arxiv.org/abs/2407.18449)
     - 💻 [GitHub](https://github.com/birkhoffkiki/GPFM/tree/master)
+
+13. 📜 **PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains**
+    - 📖 Journal: Medical Image Analysis, 2024
+    - 📄 [PDF](https://arxiv.org/abs/2407.18449)
+    - 💻 [GitHub](https://github.com/birkhoffkiki/GPFM/tree/master)
    
 [<sub>Return to List</sub>](#return-to-list)
 
