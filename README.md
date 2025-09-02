@@ -122,74 +122,71 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📖 CVPR, 2024
     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Alfasly_Rotation-Agnostic_Image_Representation_Learning_for_Digital_Pathology_CVPR_2024_paper.html)
     - 💻 [Code](https://github.com/KimiaLabMayo/PathDino)
-    - 
+      
 16. 📜 **Tissue Concepts: supervised foundation models in computational pathology**
     - 📖 Journal: Computers in Biology and Medicine
     - 📄 [PDF](https://www.sciencedirect.com/science/article/pii/S0010482524017062)
     - 💻 [Code](https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling)
+
+17. 📜 **A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images**
+    - 📖 Journal: Nature Communications
+    - 📄 [PDF](https://www.nature.com/articles/s41467-025-57587-y)
+    - 💻 [Code](https://github.com/Zhcyoung/BEPH)
 
 [<sub>Return to List</sub>](#return-to-list)
 
 ---
 ### Contrastive Multi-modal Models
 
-13. 📜 **An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic Resonance Image using Implicit Neural Representation**
-     - 🗓️ Publication Date: 29th Oct. 2021
-     - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Yawen Sun, Yan Zhou, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
-     - 📄 [PDF](https://arxiv.org/abs/2110.14476)
-     - 💻 [GitHub](https://github.com/iwuqing/arssr)
+17. 📜 **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**
+     - 📖 CVPR, 2023
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.html?ref=https://githubhelp.com)
+     - 💻 [Code](https://github.com/mahmoodlab/MI-Zero)
 
-14. 📜 **IREM: High-Resolution Magnetic Resonance (MR) Image Reconstruction via Implicit Neural Representation**
-     - 🗓️ Publication Date: 29th Jun. 2021
-     - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Lan Xu, Ruiming Feng, Hongjiang Wei, Qing Yang, Boliang Yu, Xiaozhao Liu, Jingyi Yu, Yuyao Zhang
-     - 📄 [PDF](https://arxiv.org/abs/2106.15097)
+18. 📜 **A visual-language foundation model for pathology image analysis using medical Twitter**
+     - 📖 Journal: Nature Medicine, 2023
+     - 📄 [PDF](https://www.nature.com/articles/s41591-023-02504-3)
+     - 💻 [Code](https://tinyurl.com/webplip)
 
-15. 📜 **MRI Super-Resolution using Implicit Neural Representation with Frequency Domain Enhancement**
-     - 🗓️ Publication Date: Aug. 2022
-     - 🧑‍🔬 Authors: Shuangming Mao, Seiichiro Kamata
-     - 📄 [PDF](https://dl.acm.org/doi/10.1145/3563737.3563759)
+19. 📜 **Quilt-1M: One Million Image-Text Pairs for Histopathology**
+     - 📖 Conference: NeurIPS 2023
+     - 📄 [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/775ec578876fa6812c062644964b9870-Abstract-Datasets_and_Benchmarks.html)
+     - 💻 [Code](https://github.com/wisdomikezogwo/quilt1m)
+      
+20. 📜 **A visual-language foundation model for computational pathology**
+     - 📖 Journal: Nature Medicine, 2024
+     - 📄 [PDF](https://www.nature.com/articles/s41591-024-02856-4)
+     - 💻 [Code](http://github.com/mahmoodlab/CONCH)
 
-16. 📜 **NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI**
-     - 🗓️ Publication Date: IEEE TRANSACTIONS ON MEDICAL IMAGING, 2022
-     - 🧑‍🔬 Authors: Junshen Xu, Daniel Moyer, Borjan Gagoski, Juan Eugenio Iglesias, P. Ellen Grant, Polina Golland, Elfar Adalsteinsson
-     - 📄 [PDF](https://www.techrxiv.org/articles/preprint/NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/21398868)
-     - 💻 [GitHub](https://github.com/daviddmc/NeSVoR)
+17. 📜 **Knowledge-Enhanced Visual-Language Pretraining for Computational Pathology**
+     - 📖 Conference: ECCV, 2024
+     - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_20)
+     - 💻 [Code](https://github.com/MAGIC-AI4Med/KEP)
 
-17. 📜 **Spatiotemporal implicit neural representation for unsupervised dynamic MRI reconstruction**
-     - 🗓️ Publication Date: 31th Dec. 2022
-     - 🧑‍🔬 Authors: Jie Feng, Ruimin Feng, Qing Wu, Zhiyong Zhang, Yuyao Zhang, Hongjiang Wei
-     - 📄 [PDF](Link to PDF)
+18. 📜 **PRISM: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology**
+     - 📖 Preprint: arXiv, 2024
+     - 📄 [PDF](https://arxiv.org/abs/2405.10254)
+     - 💻 [Code](https://huggingface.co/paige-ai/Prism/tree/main)
 
-18. 📜 **Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**
-      - 🗓️ Publication Date: 16th Dec. 2022
-      - 📖 Conference: International Conference on Information Processing in Medical Imaging, 2023
-      - 🧑‍🔬 Authors: Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik
-      - 📄 [PDF](https://arxiv.org/abs/2212.08479)
+19. 📜 **Transcriptomics-guided Slide Representation Learning in Computational Pathology**
+     - 📖 CVPR, 2024
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.html)
+     - 💻 [Code](https://github.com/mahmoodlab/TANGLE)
 
-19. 📜 **Continuous longitudinal fetus brain atlas construction via implicit neural representation**
-     - 🗓️ Publication Date: 14th Sep. 2022
-     - 🧑‍🔬 Authors: Lixuan Chen, Jiangjie Wu, Qing Wu, Hongjiang Wei, Yuyao Zhang
-     - 📄 [PDF](https://arxiv.org/abs/2209.06413)
+20. 📜 **CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment**
+     - 📖 CVPR, 2024
+     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.html)
+     - 💻 [Code](https://github.com/iyyakuttiiyappan/CPLIP)
 
-20. 📜 **Multi-contrast MRI Super-resolution via Implicit Neural Representations**
-      - 🗓️ Publication Date: 27th Mar. 2023
-      - 📖 Conference: *MICCAI, 2023*
-      - 🧑‍🔬 Authors: Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansö, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler
-      - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17)
-      - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
-
-21. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.**
-      - 📅 Publication Date: *4th Apr., 2022*
-      - 📖 Journal: *Medical Imaging 2022: Physics of Medical Imaging, 2022*
-      - 🧑‍🔬 Authors: *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*
-      - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
+21. 📜 **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**
+     - 📖 Preprint: arXiv, 2024
+     - 📄 [PDF](https://arxiv.org/abs/2407.15362)
+     - 💻 [Code](https://github.com/Innse/mSTAR)
    
-  
-22. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
-     - 🗓️ Publication Date: 23rd May. 2022
-     - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
-     - 📄 [PDF](https://arxiv.org/abs/2205.11346)
-     - 💻 [GitHub](https://jamesqfreeman.github.io/SA-INR/)
+22. 📜 **PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**
+     - 📖 ICLR, 2025
+     - 📄 [PDF](https://arxiv.org/abs/2407.00203)
+     - 💻 [Code](https://github.com/PathFoundation/PathGen-1.6M/tree/main)
    
 23. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
      - 🗓️ Publication Date: 19th Oct. 2022
