@@ -344,31 +344,71 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 
 ### Pathological Component Segmentation:
 
-52. 📜 **Deep Implicit Statistical Shape Models for 3D Medical Image Delineation**
-    - 📅 Publication Date: *28th Jun., 2022*
-    - 📖 Conference: *AAAI, 2022*
-    - 🧑‍🔬 Authors: *Ashwin Raju, Shun Miao, Dakai Jin, Le Lu, Junzhou Huang, Adam P. Harrison*
-    - 📄 [PDF](https://arxiv.org/abs/2104.02847)
-    - 🖥️ [GitHub](https://github.com/ashstuff/dissm)
-    - 📌 Highlight: Presents a methodology that emphasizes 3D delineation of anatomical structures using deep implicit statistical shape models.
+56. 📜 **AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder**
+    - 📖 Conference: BMVC, 2023
+    - 📄 [PDF](https://arxiv.org/abs/2306.06370)
 
-53. 📜 **Implicit Neural Representations for Medical Imaging Segmentation**
-    - 📅 Publication Date: *16th Sep., 2022*
-    - 📖 Conference: *International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022*
-    - 🧑‍🔬 Authors: *Muhammad Osama Khan & Yi Fang*
-    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)
-    - 📌 Highlight: Specifically mentions 3D signals in medical imaging, hinting at 3D anatomical structures.
+56. 📜 **CellViT: Vision Transformers for precise cell segmentation and classification**
+    - 📖 Journal: Medical Image Analysis, 2024
+    - 📄 [PDF](https://www.sciencedirect.com/science/article/pii/S1361841524000689)
+    - 💻 [Code](https://github.com/TIO-IKIM/CellViT)
+      
+56. 📜 **All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning**
+    - 📖 Journal of Physics: Conference Series
+    - 📄 [PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2722/1/012012/meta)
+
+56. 📜 **SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology**
+    - 📖 MICCAI 2023 Workshops
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_16)
+
+56. 📜 **TPRO: Text-Prompting-Based Weakly Supervised Histopathology Tissue Segmentation**
+    - 📖 MICCAI 2023
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11)
+    - 💻 [Code](https://github.com/zhangst431/TPRO)
+
+57. 📜 **SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**
+    - 📖 MLMI 2023
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_23)
+    - 💻 [Code](https://github.com/xq141839/SPPNet)
+
+57. 📜 **Evaluation and Improvement of Segment Anything Model for Interactive Histopathology Image Segmentation**
+    - 📖 MICCAI 2023 Workshops
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_24)
+    - 💻 [Code](https://github.com/hvcl/SAM_Interactive_Histopathology)
+
+57. 📜 **Unleashing the Power of Prompt-driven Nucleus Instance Segmentation**
+    - 📖 ECCV 2024
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-73383-3_17)
+    - 💻 [Code](https://github.com/windygoo/PromptNucSeg)
+
+57. 📜 **Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation**
+    - 📖 Preprint: arXiv, 2024
+    - 📄 [PDF](https://arxiv.org/abs/2401.13220)
+      
+57. 📜 **WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images**
+    - 📖 MICCAI 2024 Workshop
+    - 📄 [PDF](https://openreview.net/forum?id=ldY0wELcPq)
+    - 💻 [Code](https://github.com/HongLiuuuuu/WSI-SAM)
+
+57. 📜 **GlandSAM: Injecting Morphology Knowledge Into Segment Anything Model for Label-Free Gland Segmentation**
+    - 📖 Journal: IEEE Transactions on Medical Imaging, 2025
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10707661)
+    - 💻 [Code](https://github.com/xmed-lab/MSSG)
 
 ---
 
 ### Other Applications:
 
-54. 📜 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**
-    - 📅 Publication Date: *6th Apr., 2023*
-    - 📖 Preprint: *arXiv, 2023*
-    - 🧑‍🔬 Authors: *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*
-    - 📄 [PDF](https://arxiv.org/abs/2304.03209)
-    - 🖥️ [GitHub](https://github.com/charlesyou999648/morse)
-    - 📌 Highlight: Emphasizes refining the boundary regions of segmented medical images.
+57. 📜 **Improving Mitosis Detection on Histopathology Images Using Large Vision-Language Models**
+    - 📖 ISBI, 2024
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10635613)
 
+57. 📜 **Zero-Shot Nuclei Detection via Visual-Language Pre-trained Models**
+    - 📖 MICCAI, 2023
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_67)
+    - 💻 [Code](https://github.com/wuyongjianCODE/VLPMNuD)
+
+57. 📜 **SAMMS: Multi-modality Deep Learning with the Foundation Model for the Prediction of Cancer Patient Survival**
+    - 📖 BIBM, 2024
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10385661)
 ---
