@@ -411,4 +411,23 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 57. 📜 **SAMMS: Multi-modality Deep Learning with the Foundation Model for the Prediction of Cancer Patient Survival**
     - 📖 BIBM, 2024
     - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10385661)
+
+57. 📜 **SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification**
+    - 📖 ACM International Conference on Multimedia, 2024
+    - 📄 [PDF](https://dl.acm.org/doi/abs/10.1145/3664647.3681534)
+    - 💻 [Code](https://github.com/FangHeng/SAM-MIL)
+
+57. 📜 **Automatic Report Generation for Histopathology Images Using Pre-Trained Vision Transformers and BERT**
+    - 📖 ISBI, 2024
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10635175)
+
+57. 📜 **Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**
+    - 📖 ICLR, 2025
+    - 📄 [PDF](https://openreview.net/forum?id=trj2Jq8riA)
+    - 💻 [Code](https://github.com/liupei101/VLSA)
+
+57. 📜 **Distilled Prompt Learning for Incomplete Multimodal Survival Prediction**
+    - 📖 CVPR, 2025
+    - 📄 [PDF](https://openreview.net/forum?id=trj2Jq8riA)
+    - 💻 [Code](https://github.com/Innse/DisPro)
 ---
