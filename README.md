@@ -133,6 +133,11 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📄 [PDF](https://www.nature.com/articles/s41467-025-57587-y)
     - 💻 [Code](https://github.com/Zhcyoung/BEPH)
 
+17. 📜 **Foundation models for fast, label-free detection of glioma infiltration**
+    - 📖 Journal: Nature, 2025 
+    - 📄 [PDF](https://www.nature.com/articles/s41586-024-08169-3)
+    - 💻 [Code](https://github.com/MLNeurosurg/fastglioma)
+
 18. 📜 **SegAnyPath: A Foundation Model for Multi-resolution Stain-variant and Multi-task Pathology Image Segmentation**
     - 📖 Journal: IEEE Transactions on Medical Imaging
     - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10756743)
@@ -430,4 +435,8 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📖 CVPR, 2025
     - 📄 [PDF](https://openreview.net/forum?id=trj2Jq8riA)
     - 💻 [Code](https://github.com/Innse/DisPro)
+
+57. 📜 **ToPoFM: Topology-Guided Pathology Foundation Model for High-Resolution Pathology Image Synthesis with Cellular-Level Control**
+    - 📖 IEEE Transactions on Medical Imaging, 2025
+    - 📄 [PDF](https://ieeexplore.ieee.org/abstract/document/10915718)
 ---
