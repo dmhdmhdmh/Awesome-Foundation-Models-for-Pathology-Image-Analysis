@@ -325,7 +325,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 52. 📜 **Prompting Vision Foundation Models for Pathology Image Analysis**
     - 📖 Conference: CVPR, 2024
     - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.html)
-    - 💻 [Code](https://github.com/7LFB/QAP https://github.com/7LFB/QAP)
+    - 💻 [Code](https://github.com/7LFB/QAP)
 
 53. 📜 **ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**
     - 📖 Conference: CVPR, 2024
