@@ -103,9 +103,9 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📖 ICML 2024 FM-Wild Workshop
     - 📄 [PDF](https://openreview.net/forum?id=wy6RHXsEeM)
 
-12. 📜 **Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation**
+12. 📜 **A generalizable pathology foundation model using a unified knowledge distillation pretraining framework**
     - 📖 Journal: Nature BME 2025
-    - 📄 [PDF](https://arxiv.org/abs/2407.18449)
+    - 📄 [PDF](https://www.nature.com/articles/s41551-025-01488-4)
     - 💻 [Code](https://github.com/birkhoffkiki/GPFM/tree/master)
 
 13. 📜 **PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains**
@@ -117,6 +117,11 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📖 ECCV, 2024
     - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_2)
     - 💻 [Code](https://github.com/mahmoodlab/MADELEINE)
+
+14. 📜 **VIRCHOW 2: SCALING SELF-SUPERVISED MIXED MAGNIFICATION MODELS IN PATHOLOGY**
+    - 📖 Preprint: arXiv, 2024
+    - 📄 [PDF](https://arxiv.org/abs/2408.00738)
+    - 💻 [Code](https://huggingface.co/paige-ai/Virchow2)
 
 15. 📜 **Rotation-agnostic image representation learning for digital pathology**
     - 📖 CVPR, 2024
