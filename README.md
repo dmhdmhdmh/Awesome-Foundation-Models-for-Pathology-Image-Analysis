@@ -40,7 +40,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - [Multi-modal Representation Learning Models](#Multi-modal-Representation-Learning-Models)
     - [Multi-modal Large Language Models](#Multi-modal-Large-Language-Models)
     - [Task-specific Pre-trained Multi-modal Models](#Task-specific-Pre-trained-Multi-modal-Models)
-- [Adapt Foundation Models for Specific Tasks](#Adapt-Foundation-Models-for-Specific-Tasks)
+- [Adaptation of Foundation Models](#Adaptation-of-Foundation-Models)
   - [Pathological Classification](#Pathological-Classification)
   - [Pathological Component Segmentation](#Pathological-Component-Segmentation)
   - [Other applications](#Other-applications)
@@ -282,7 +282,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 
 [<sub>Return to List</sub>](#return-to-list)
 
-## Adapt Foundation Models for Specific Tasks
+## Adaptation of Foundation Models
 
 ### Pathological Classification:
 
