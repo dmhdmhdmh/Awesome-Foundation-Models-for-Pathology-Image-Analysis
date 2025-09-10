@@ -33,9 +33,13 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 <a name="return-to-list"></a>
 
 - [Large-scale Pre-trained Models](#Large-scale-Pre-trained-Models)
-  - [Large Vision Models](#Large-Vision-Models)
-  - [Contrastive Multi-modal Models](#Contrastive-Multi-modal-models)
-  - [Multi-modal Large Language Models](#Multi-modal-Large-Language-Models)
+  - [Vision Foundation Models](#Vision-Foundation-Models)
+    - [Visual Representation Learning Models](#Visual-Representation-Learning-Models)
+    - [Task-specific Pre-trained Vision Models](#Task-specific-Pre-trained-Vision-Models)
+  - [Multi-modal Foundation Models](#Multi-modal-Foundation-Models)
+    - [Multi-modal Representation Learning Models](#Multi-modal-Representation-Learning-Models)
+    - [Multi-modal Large Language Models](#Multi-modal-Large-Language-Models)
+    - [Task-specific Pre-trained Multi-modal Models](#Task-specific-Pre-trained-Multi-modal-Models)
 - [Adapt Foundation Models for Specific Tasks](#Adapt-Foundation-Models-for-Specific-Tasks)
   - [Pathological Classification](#Pathological-Classification)
   - [Pathological Component Segmentation](#Pathological-Component-Segmentation)
@@ -46,27 +50,25 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 ## Large-scale Pre-trained Models
 ---
 
-### Large Vision Models
+### Vision Foundation Models
+---
 
-
+#### Visual Representation Learning Models
 1. 📜 **Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**
    - 📖 Conference: CVPR, 2022
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.html?trk=public_post_comment-text)
    - 💻 [Code](https://github.com/mahmoodlab/HIPT)
-   - 📌 Highlight: A Hierarchical Image Pyramid Transformer is proposed to leverage the inherent natural hierarchical structure in WSIs; A two-stage SSL approach is proposed to learn high-resolution image representations, which can model important inductive biases in the phenotypic hierarchical structure of the tumor microenvironment.
 
 2. 📜 **Transformer-based unsupervised contrastive learning for histopathological image classification**
    - 📖 Journal: Medical Image Analysis, 2022
    - 📄 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002043)
    - 💻 [Code](https://github.com/Xiyue-Wang/TransPath)
-   - 📌 Highlight: A proposed CTransPath integrates CNN and multi-scale Swin Transformer to better capture local fine structures and global context; A semantically-relevant contrastive learning framework proposed to improve SSL by selecting more similar positive samples from different instances.
 
 3. 📜 **Benchmarking Self-Supervised Learning on Diverse Pathology Datasets**
    - 📖 Conference: CVPR, 2023
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Kang_Benchmarking_Self-Supervised_Learning_on_Diverse_Pathology_Datasets_CVPR_2023_paper.html?ref=https://githubhelp.com)
-   - 💻 [Code](https://github.com/lunit-io/benchmark-ssl-pathology#pre-trained-weights) 
-   - 📌 Highlight: Systematically compare existing SSL methods and discuss how to adapt them to pathology; A set of carefully designed data preprocessing and data augmentation techniques proposed to further enhance downstream performance.
-
+   - 💻 [Code](https://github.com/lunit-io/benchmark-ssl-pathology#pre-trained-weights)
+     
 4. 📜 **Scaling Self-Supervised Learning for Histopathology with Masked Image Modeling**
    - 📖 Preprint: MedRxiv, 2023
    - 📄 [PDF](https://www.medrxiv.org/content/10.1101/2023.07.21.23292757v3)
@@ -138,6 +140,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
     - 📄 [PDF](https://www.nature.com/articles/s41467-025-57587-y)
     - 💻 [Code](https://github.com/Zhcyoung/BEPH)
 
+#### Task-specific Pre-trained Vision Models
 17. 📜 **Foundation models for fast, label-free detection of glioma infiltration**
     - 📖 Journal: Nature, 2025 
     - 📄 [PDF](https://www.nature.com/articles/s41586-024-08169-3)
@@ -151,8 +154,10 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 [<sub>Return to List</sub>](#return-to-list)
 
 ---
-### Contrastive Multi-modal Models
+### Multi-modal Foundation Models
+---
 
+#### Multi-modal Representation Learning Models
 19. 📜 **Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images**
      - 📖 Conference: CVPR, 2023
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.html?ref=https://githubhelp.com)
@@ -231,18 +236,13 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
 [<sub>Return to List</sub>](#return-to-list)
 
 ---
-### Multi-modal Large Language Models
+#### Multi-modal Large Language Models
 
 34. 📜 **PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology**
      - 📖 Conference: AAAI, 2024
      - 📄 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28308)
      - 💻 [Code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
    
-35. 📜 **Generating dermatopathology reports from gigapixel whole slide images with HistoGPT**
-     - 📖 Journal: Nature Communications, 2025
-     - 📄 [PDF](https://www.nature.com/articles/s41467-025-60014-x)
-     - 💻 [Code](https://github.com/marrlab/HistoGPT)
-       
 36. 📜 **A multimodal generative AI copilot for human pathology**
      - 📖 Journal: Nature, 2024
      - 📄 [PDF](https://www.nature.com/articles/s41586-024-07618-3)
@@ -271,7 +271,15 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 📖 Conference: ICCV, 2025
      - 📄 [PDF](https://arxiv.org/abs/2412.02141)
      - 💻 [Code](https://github.com/XinhengLyu/WSI-LLaVA)
+
+#### Multi-modal Large Language Models
+
+35. 📜 **Generating dermatopathology reports from gigapixel whole slide images with HistoGPT**
+     - 📖 Journal: Nature Communications, 2025
+     - 📄 [PDF](https://www.nature.com/articles/s41467-025-60014-x)
+     - 💻 [Code](https://github.com/marrlab/HistoGPT)
        
+
 [<sub>Return to List</sub>](#return-to-list)
 
 ## Adapt Foundation Models for Specific Tasks
