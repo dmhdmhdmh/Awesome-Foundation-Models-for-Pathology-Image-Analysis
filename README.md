@@ -272,7 +272,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
      - 📄 [PDF](https://arxiv.org/abs/2412.02141)
      - 💻 [Code](https://github.com/XinhengLyu/WSI-LLaVA)
 
-#### Multi-modal Large Language Models
+#### Task-specific Pre-trained Multi-modal Models
 
 35. 📜 **Generating dermatopathology reports from gigapixel whole slide images with HistoGPT**
      - 📖 Journal: Nature Communications, 2025
