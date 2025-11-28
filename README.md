@@ -6,17 +6,6 @@
 
 :fire::fire: This is a collection of awesome articles about Foundation Models in Pathology Image Analysis:fire::fire:
 
-#### Citation
-
-```python
-@inproceedings{molaei2023implicit,
-  title={Implicit neural representation in medical imaging: A comparative survey},
-  author={Molaei, Amirali and Aminimehr, Amirhossein and Tavakoli, Armin and Kazerouni, Amirhossein and Azad, Bobby and Azad, Reza and Merhof, Dorit},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={2381--2391},
-  year={2023}
-}
-```
 
 # Introduction 
 
