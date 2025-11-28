@@ -6,8 +6,6 @@
 
 :fire::fire: This is a collection of awesome articles about Foundation Models in Pathology Image Analysis:fire::fire:
 
-:loudspeaker: Our review paper published on arXiv: [Foundation Models in Pathology Image Analysis](https://arxiv.org/abs/2307.16142) :heart:
-
 #### Citation
 
 ```python
