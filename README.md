@@ -80,7 +80,7 @@ We considered a sum of `81` research papers spanning from 2022 to 2025.
    - 💻 [Code](https://github.com/mahmoodlab/UNI)
 
 9. 📜 **Computational Pathology at Health System Scale- Self-Supervised Foundation Models from Billions of Images**
-   - 📖 AAAI 2024 Spring Symposium
+   - 📖 AAAI 2024 Spring Symposium
    - 📄 [PDF](https://openreview.net/forum?id=g8tF7gGzZb)
 
 10. 📜 **A whole-slide foundation model for digital pathology from real-world data**
